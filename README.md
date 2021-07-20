@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Base Apparel coming soon page solution - GitHub](https://github.com/sunil-sharma-999/Frontend-Mentor-Base-Apparel-coming-soon-page-solution/)
-- Live Site URL: [Base Apparel coming soon page solution](https://sunil-sharma-999.github.io/Frontend-Mentor-Base-Apparel-coming-soon-page-solution/)
+- Solution URL: [Base Apparel coming soon page solution - GitHub](https://github.com/sunil-sharma-999/Base-Apparel-coming-soon-page-solution/)
+- Live Site URL: [Base Apparel coming soon page solution](https://sunil-sharma-999.github.io/Base-Apparel-coming-soon-page-solution/)
 
 ## My process
 
